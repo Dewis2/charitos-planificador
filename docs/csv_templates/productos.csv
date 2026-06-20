@@ -1,0 +1,2 @@
+nombre,categoria,unidad_medida,vida_util_dias,costo_unitario,precio_venta,stock_minimo,stock_seguridad,lote_minimo_produccion,multiplo_produccion,tipo_produccion,aplica_recomendacion,activo
+Torta de chocolate,torta,unidad,5,25,45,1,2,2,1,ambos,true,true

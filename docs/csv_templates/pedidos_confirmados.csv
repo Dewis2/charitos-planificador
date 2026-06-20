@@ -1,0 +1,2 @@
+fecha_pedido,fecha_entrega,cliente_nombre,cliente_celular,producto_nombre,cantidad,descripcion,estado,monto_total,observacion
+2026-06-19,2026-06-21,Ana Pérez,999999999,Torta de chocolate,1,Torta personalizada,confirmado,80,Entrega por la tarde

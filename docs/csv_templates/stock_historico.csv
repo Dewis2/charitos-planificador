@@ -1,0 +1,2 @@
+fecha,producto_nombre,ubicacion,stock_inicial,stock_final,cantidad_producida_vitrina,cantidad_recibida_transferencia,cantidad_enviada_transferencia,observacion
+2026-06-19,Torta de chocolate,tienda_1,4,2,3,0,0,Conteo de cierre

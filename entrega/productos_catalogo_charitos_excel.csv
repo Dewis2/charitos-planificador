@@ -1,0 +1,48 @@
+﻿sep=;
+nombre;categoria;unidad_medida;vida_util_dias;costo_unitario;precio_venta;stock_minimo;stock_seguridad;lote_minimo_produccion;multiplo_produccion;tiempo_estimado_produccion_minutos;tipo_produccion;aplica_recomendacion;activo
+Vainilla - Mármol;vainilla;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Vainilla - Rectang;vainilla;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Vainilla - Extragrande;vainilla;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Vainilla - Grande;vainilla;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Vainilla - med;vainilla;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Vainilla - Corazón gr.;vainilla;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Vainilla - Corazón med.;vainilla;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Vainilla - Pequeña;vainilla;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Vainilla - 2 Pisos;vainilla;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+3 Leches - Sauco;3 leches;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+3 Leches - Fresa;3 leches;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+3 Leches - Maracuyá;3 leches;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+3 Leches - Lúcuma;3 leches;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+3 Leches - Chocolate;3 leches;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+3 Leches - Mango;3 leches;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+3 Leches - Moca;3 leches;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+3 Leches - V. gr.;3 leches;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+3 Leches - V. med.;3 leches;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Jalea;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Sublime;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Menta;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Fosh;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Oreo;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Crocante;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Sambito;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Trufa;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Grande;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Mediana;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Selva Negra - Pequeña;selva negra;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Helada - Rectang;helada;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Helada - Grande;helada;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Helada - Mediana;helada;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Helada - Pequeña;helada;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Cachito;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Queso;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Tubo;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Hot dog;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Manzana;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Piña;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Emp. Dulce;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Pañuelo;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Budín;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Leche asada;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Alfajor;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Carne;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
+Pasteles - Mil hojas;pasteles;unidad;1;0;0;0;0;1;1;0;ambos;true;true
