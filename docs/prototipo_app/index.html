@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Prototipo navegable de Charito's Planifica" />
+    <title>Prototipo · Charito's Planifica</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="prototype-stage">
+      <aside class="prototype-notes" aria-label="Información del prototipo">
+        <span class="eyebrow">PROTOTIPO ACADÉMICO</span>
+        <h1>Charito's<br /><span>Planifica</span></h1>
+        <p class="lead">Producción con menos merma, incluso sin conexión.</p>
+        <div class="note-card">
+          <strong>Cómo explorarlo</strong>
+          <p>Use el menú del teléfono para recorrer los módulos. Los botones y formularios simulan los flujos principales.</p>
+        </div>
+        <div class="flow-list" aria-label="Flujo principal">
+          <span>1 · Registrar</span><span>2 · Controlar</span><span>3 · Planificar</span>
+        </div>
+        <p class="prototype-disclaimer">Los datos son demostrativos. Este prototipo representa la interfaz; el APK contiene la implementación funcional.</p>
+      </aside>
+
+      <section class="phone" aria-label="Prototipo móvil de Charito's Planifica">
+        <div class="phone-status" aria-hidden="true">
+          <span>9:41</span><span class="status-icons">▮▮▮ ◉</span>
+        </div>
+        <header class="app-bar">
+          <button class="icon-button" id="menuButton" aria-label="Abrir menú">☰</button>
+          <div>
+            <span class="app-bar-kicker">CHARITO'S PLANIFICA</span>
+            <h2 id="screenTitle">Inicio</h2>
+          </div>
+          <span class="offline-chip"><i></i> Offline</span>
+        </header>
+
+        <div class="prototype-ribbon">Prototipo · datos demostrativos</div>
+        <section id="screen" class="screen" aria-live="polite"></section>
+
+        <nav class="bottom-nav" aria-label="Navegación principal">
+          <button data-route="inicio" class="active"><span>⌂</span>Inicio</button>
+          <button data-route="productos"><span>◇</span>Productos</button>
+          <button id="modulesButton"><span>☷</span>Módulos</button>
+          <button data-route="recomendacion"><span>↗</span>Planificar</button>
+        </nav>
+
+        <div class="scrim" id="scrim"></div>
+        <aside class="drawer" id="drawer" aria-label="Módulos de la aplicación">
+          <div class="drawer-brand">
+            <span class="brand-mark">C</span>
+            <div><strong>Charito's Planifica</strong><small>Producción con menos merma</small></div>
+          </div>
+          <nav id="drawerNav"></nav>
+          <div class="drawer-footer"><span>◉</span> Datos guardados en este dispositivo</div>
+        </aside>
+
+        <div class="modal-backdrop" id="modalBackdrop" role="dialog" aria-modal="true" aria-hidden="true">
+          <div class="modal" id="modal"></div>
+        </div>
+        <div class="toast" id="toast" role="status"></div>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
